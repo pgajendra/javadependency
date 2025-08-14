@@ -1,1 +1,3 @@
-key:gaja
+server:
+  port: 4247
+message: "Hello from GitHub Config Repo"
